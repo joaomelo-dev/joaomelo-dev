@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou João Melo 👋
 
-<!--
-**joaomelo-dev/joaomelo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Python em formação
 
-Here are some ideas to get you started:
+🤖 Integrante da equipe de robótica Cyberbot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏅 Medalhista nas competições:
+- OBR
+- FLL
+- FTC
+
+📚 Atualmente estudando:
+- Python
+- Programação Orientada a Objetos
+- Git e GitHub
+
+🎯 Objetivo:
+Conquistar minha primeira oportunidade como desenvolvedor e construir soluções que resolvam problemas reais.
+
+## Tecnologias
+
+- Python
+- Visual Studio Code
+- LEGO SPIKE Prime
+- LEGO EV3 (básico)
+- Microsoft Excel
+
+## Contato
+
+📧 cordeirojoao925@gmail.com
