@@ -1,20 +1,20 @@
-# Olá! Eu sou João Melo 👋
+# Olá! Eu sou João Melo 
 
-💻 Desenvolvedor Python em formação
+ Desenvolvedor Python em formação
 
-🤖 Integrante da equipe de robótica Cyberbot
+ Integrante da equipe de robótica Cyberbot
 
-🏅 Medalhista nas competições:
+ Medalhista nas competições:
 - OBR
 - FLL
 - FTC
 
-📚 Atualmente estudando:
+ Atualmente estudando:
 - Python
 - Programação Orientada a Objetos
 - Git e GitHub
 
-🎯 Objetivo:
+ Objetivo:
 Conquistar minha primeira oportunidade como desenvolvedor e construir soluções que resolvam problemas reais.
 
 ## Tecnologias
@@ -27,4 +27,5 @@ Conquistar minha primeira oportunidade como desenvolvedor e construir soluções
 
 ## Contato
 
-📧 cordeirojoao925@gmail.com
+ cordeirojoao925@gmail.com
+ (81) 98633-3147
