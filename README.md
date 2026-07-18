@@ -27,5 +27,5 @@ Conquistar minha primeira oportunidade como desenvolvedor e construir soluções
 
 ## Contato
 
- cordeirojoao925@gmail.com
+ cordeirojoao1904@gmail.com
  (81) 98633-3147
